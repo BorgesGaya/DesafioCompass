@@ -13,6 +13,6 @@ Create Table fact_customer_kpi(
 );
 
 Create Table dim_merchant_category (
-		id_merchant	varchar(50),			
+		id_merchant varchar(50),			
 		category varchar(50)
 );
