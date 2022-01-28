@@ -29,7 +29,7 @@ Desafio
       * Criar coluna data: sempre dia 1
 <!--te-->
 
-3) Modelagem dimensional (SQL)
+Modelagem dimensional (SQL)
     Criar diagrama (dbdiagram.io ou similar)
     Criar Datamart com as novas tabelas
 
